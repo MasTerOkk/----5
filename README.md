@@ -1,8 +1,8 @@
-# [![preview](./preview.png)](./features/main.md)
+# [![preview](./preview.jpg)](./features/main.md)
 
-# Документация по мобильной игре "Платформер"
+# Wiki по мобильной игре "Pixel Adventure"
 
-Добро пожаловать в документацию приложения **"Платформер"**! Здесь находиться вся основная информация о ~приложении~ игре.
+Добро пожаловать в wiki **Pixel Adventure**! Здесь находиться вся основная информация о ~приложении~ игре.
 
 > Чтобы выигрывать, прежде всего нужно играть.
 > 
@@ -12,10 +12,10 @@
 1. [Обзор игры](features/main.md)
    - [Мир](features/game/environment.md)
    - [Персонаж](features/game/hero.md)
+   - [Элементы интерфейса](features/ui/uiElements.md)
 2. [Использование](init/overview.md)
-   - [Установка android](init/download/android.md)
-   - [Установка ios](init/download/ios.md)
+   - [Установка на android](init/download/android.md)
 
 ---
 
-© 2024, Разработчики приложения "Платформер".
+© 2024, LohotronGames.
